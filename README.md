@@ -1,4 +1,3 @@
-# SCRFD-ARC
 # <강조> 모든 .py파일은 가상환경에서 실행하고, index.html은 먼저 가상환경에서 main_org.py를 작동시킨후, 크롬/파이어폭스 창에 "127.0.0.1:8000" 입력후 실행
 # 무조건 main_org > index > detect_realsys(가상환경) 순으로 시스템 실행
 
